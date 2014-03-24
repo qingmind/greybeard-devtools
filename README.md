@@ -1,78 +1,53 @@
-***
+# greybeard devtools
 
-# PLEASE NOTE
+![greybeard devtools screenshot](https://raw.githubusercontent.com/xero/greybeard-devtools/master/preview1.png)
+![greybeard devtools screenshot](https://raw.githubusercontent.com/xero/greybeard-devtools/master/preview2.png)
 
-As of v.**33.0.1706.0**, Chrome Canary no longer supports custom stylesheets in the User Stylesheets directory.
+greybeard is a fork of [SO-Dark-Monokai-v3](https://github.com/s10wen/SO-Dark-Monokai-v3) chrome developer tools theme. ui elements have been updated to match the [greybeard sublime text theme](https://github.com/xero/greybeard-sublime).
 
-@darcyclarke [filed an issue to restore this functionality](https://code.google.com/p/chromium/issues/detail?can=4&start=0&num=100&q=&colspec=ID%20Pri%20M%20Iteration%20ReleaseBlock%20Cr%20Status%20Owner%20Summary%20OS%20Modified&groupby=&sort=&id=318566).  Feel free to voice your opinions there.
+## installation:
 
-In the interim, @mauricecruz has a solution [injecting styles through the inspector's inspector](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme/blob/master/getDevTheme.js).
+1. find chrome's user stylesheets directory:
 
-
-***
-
-
-# Zero Base Themes
-
-I've started moving this theme across to:
-
-https://github.com/mauricecruz/zero-base-themes
-
-https://github.com/mauricecruz/zero-base-themes/blob/master/themes/s10wen-monokai.less
-
-
-***
-
-
-# SO-Dark-Monokai-v3
-
-A third version of the theme I tweaked, changing the toolbar icons to text and fixing an issue with the latest release of Chrome Canary.
-
-https://github.com/simonowendesign/SO-Dark-Monokai-v3
-
-
-## Installation:
-
-
-### Automatic
-
-Run `rake` to copy the files to the correct locations.
-
-
-### Manual
-
-1. Find your Chrome's user stylesheets directory:
-
-	Mac - Finder > shift + cmd + g:
+	mac - Finder > shift + cmd + g:
 
 	`~/Library/Application Support/Google/Chrome/Default/User StyleSheets/`
 
-	Mac - Terminal:
+	mac - terminal:
 
 	`~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets/`
 
-	Windows:
+	windows:
 
 	`C:\Users\**Your Username**\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\`
 
-	Ubuntu (Chromium):
+	linux (chromium / goole chrome):
 
 	`~/.config/chromium/Default/User StyleSheets/`
 
+	or
 
+	`~/.config/google-chrome/Default/User StyleSheets/`
 
-2. Replace the existing "Custom.css" file with this one
+2. replace the existing "Custom.css" file with [this one](https://raw.githubusercontent.com/xero/greybeard-devtools/master/Custom.css)
 
-3. No restart needed, changes are applied immediately
+3. no restart needed, changes are applied immediately, which is awesome! so hack away!
 
+## sublime
 
-## Preview:
-<img src="http://farm8.staticflickr.com/7419/10066326275_14d203a033_b.jpg">
+greybeard also available for as a matching [sublime text 2 theme](https://github.com/xero/greybeard-sublime).
 
-[Full size preview](http://farm8.staticflickr.com/7419/10066326275_470154922b_o.png)
+![greybeard devtools and sublime screenshot](https://raw.githubusercontent.com/xero/greybeard-devtools/master/preview3.png)
 
+## credits
 
-## Credits
+greybeard
+xero harrison
+https://github.com/xero/greybeard-devtools
+
+SO-Dark-Monokai-v3
+simon owen
+https://github.com/s10wen/SO-Dark-Monokai-v3
 
 IR_Dark_Monokai
 Designed and developed by Andres Pagella:
