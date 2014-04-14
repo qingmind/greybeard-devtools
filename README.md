@@ -9,7 +9,7 @@ greybeard is a fork of [SO-Dark-Monokai-v3](https://github.com/s10wen/SO-Dark-Mo
 
 ### chrome webstore
 
-just follow the link to install: https://chrome.google.com/webstore/detail/greybeard-devtools-theme/cckelcjlkjehoepkfcpgdpjfagodhimd
+free to download and install via the [chrome webstore](https://chrome.google.com/webstore/detail/greybeard-devtools-theme/cckelcjlkjehoepkfcpgdpjfagodhimd)
 
 ## manual installation:
 
