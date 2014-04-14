@@ -5,7 +5,13 @@
 
 greybeard is a fork of [SO-Dark-Monokai-v3](https://github.com/s10wen/SO-Dark-Monokai-v3) chrome developer tools theme. ui elements have been updated to match the [greybeard sublime text theme](https://github.com/xero/greybeard-sublime).
 
-## installation:
+## automated installation:
+
+### chrome webstore
+
+just follow the link to install: https://chrome.google.com/webstore/detail/greybeard-devtools-theme/cckelcjlkjehoepkfcpgdpjfagodhimd
+
+## manual installation:
 
 as of chrome / chromium version 32 devtools themes are deprecated :( but, there is a work around. 
 
