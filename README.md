@@ -7,6 +7,28 @@ greybeard is a fork of [SO-Dark-Monokai-v3](https://github.com/s10wen/SO-Dark-Mo
 
 ## installation:
 
+as of chrome / chromium version 32 devtools themes are deprecated :( but, there is a work around. 
+
+### version 33+
+
+1. clone this repo somewhere
+
+2. in chrome, open chrome://extensions
+
+3. select "Developer mode"
+
+4. click on "Load unpacked extension"
+
+5. select this directory
+
+6. optionally restart (required for some systems)
+
+### version 32
+
+read this and follow the directions: http://stackoverflow.com/questions/17042547/how-to-inject-javascript-into-chrome-devtools-itself/17044405#17044405
+
+### version > 31
+
 1. find chrome's user stylesheets directory:
 
 	mac - Finder > shift + cmd + g:
