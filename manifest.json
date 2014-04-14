@@ -1,6 +1,7 @@
 {
 	"name": "greybeard devtools theme",
-	"version": "3.1.1",
+	"short_name": "greybeard",
+	"version": "3.1.2",
 	"devtools_page": "devtools.html",
 	"manifest_version": 2,
 	"icons": {
