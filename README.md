@@ -11,6 +11,15 @@ greybeard is a fork of [SO-Dark-Monokai-v3](https://github.com/s10wen/SO-Dark-Mo
 
 free to download and install via the [chrome webstore](https://chrome.google.com/webstore/detail/greybeard-devtools-theme/cckelcjlkjehoepkfcpgdpjfagodhimd)
 
+after installing you need to enable custom themes:
+- navigate to `chrome://flags/`
+- enable `Developer Tools experiments`
+- reload chrome
+- open devtools
+- click settings > experiments
+- click `allow custom ui themes`
+- reload devtools for theme to fully apply
+
 ## manual installation:
 
 as of chrome / chromium version 32 devtools themes are deprecated :( but, there is a work around. 
