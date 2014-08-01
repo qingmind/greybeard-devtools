@@ -1278,6 +1278,9 @@
   color: #E0E0E0 !important;
   top: 2px !important;
 }
+#-blink-dev-tools .resources.panel .sidebar {
+  background-color: #272822 !important;
+}
 #-blink-dev-tools .resources.panel .sidebar li {
   color: #E0E0E0 !important;
 }
