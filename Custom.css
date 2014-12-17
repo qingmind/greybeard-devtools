@@ -1379,6 +1379,15 @@
 #-blink-dev-tools #network-views .resource-view .infoList dt {
   color: #525252 !important;
 }
+#-blink-dev-tools #network-views .parent.expanded {
+  color: #6A8C8C !important;
+}
+#-blink-dev-tools #network-views .header-name {
+  color: #ccc !important;
+}
+#-blink-dev-tools #network-views .source-code {
+  color: #999 !important;
+}
 #-blink-dev-tools .resource-headers-view .outline-disclosure .header-value,
 #-blink-dev-tools #network-views .resource-view .infoList dd {
   color: #E0E0E0;
