@@ -1388,6 +1388,12 @@
 #-blink-dev-tools #network-views .source-code {
   color: #999 !important;
 }
+#-blink-dev-tools #network-views .caution {
+  color: #df9400 !important;
+}
+#-blink-dev-tools .overrides-splash-screen {
+  color: #fff !important;
+}
 #-blink-dev-tools .resource-headers-view .outline-disclosure .header-value,
 #-blink-dev-tools #network-views .resource-view .infoList dd {
   color: #E0E0E0;
